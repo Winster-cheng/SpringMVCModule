@@ -11,6 +11,7 @@
     <modules>
         <module>mybatisdemo</module>
         <module>dubbo-demo-consumer</module>
+        <module>dubbo-demo-provider</module>
     </modules>
 
     <properties>
