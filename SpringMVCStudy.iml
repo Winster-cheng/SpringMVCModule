@@ -6,6 +6,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/mybatisdemo/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/mybatisdemo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dubbo-api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dubbo-api/src/main/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
